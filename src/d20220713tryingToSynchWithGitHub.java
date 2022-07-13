@@ -8,3 +8,5 @@ public class d20220713tryingToSynchWithGitHub {
     }
 }
 // Tested successfully
+
+// Migrated from C;;; bla bla directory to C:Projects
