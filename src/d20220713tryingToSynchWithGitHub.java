@@ -7,3 +7,4 @@ public class d20220713tryingToSynchWithGitHub {
         System.out.println("This is the final testing. I opened it on MSI (successfully) and now amending one more time to check, huyha!");
     }
 }
+// Tested successfully
